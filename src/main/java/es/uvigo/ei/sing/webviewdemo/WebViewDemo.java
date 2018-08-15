@@ -22,7 +22,7 @@ public class WebViewDemo extends Application {
 	}
 
 	private void createWebView(Stage primaryStage, String page) {
-		
+		//Allooooooo
 		// create the JavaFX webview
 		final WebView webView = new WebView();
 
